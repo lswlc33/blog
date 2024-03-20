@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.xn--fiqz59cpva341l.top</id>
+    <title>雪中明月 の BLOG</title>
+    <updated>2024-03-20T17:23:36.822Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.xn--fiqz59cpva341l.top"/>
+    <link rel="self" href="https://blog.xn--fiqz59cpva341l.top/atom.xml"/>
+    <subtitle>唤取雪中明月，征服浩瀚世界！</subtitle>
+    <logo>https://blog.xn--fiqz59cpva341l.top/images/avatar.png</logo>
+    <icon>https://blog.xn--fiqz59cpva341l.top/favicon.ico</icon>
+    <rights>All rights reserved 2024, 雪中明月 の BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[Hadoop 2 与 3 在配置环境时的区别]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/hadoop-2-yu-3-zai-pei-zhi-huan-jing-shi-de-qu-bie/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/hadoop-2-yu-3-zai-pei-zhi-huan-jing-shi-de-qu-bie/">
+        </link>
+        <updated>2024-03-20T16:56:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>区别不是很多（在环境配置方面）</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>区别不是很多（在环境配置方面）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 创建虚拟环境]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/python-chuang-jian-xu-ni-huan-jing/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/python-chuang-jian-xu-ni-huan-jing/">
+        </link>
+        <updated>2024-01-23T01:32:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>每次要用就想不起来命令，写个记录下</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>每次要用就想不起来命令，写个记录下</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 基础]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/rust-ji-chu/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/rust-ji-chu/">
+        </link>
+        <updated>2024-01-12T11:12:26.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust 从安装到卸载]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/rust-cong-an-zhuang-dao-xie-zai/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/rust-cong-an-zhuang-dao-xie-zai/">
+        </link>
+        <updated>2024-01-09T11:23:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为 Git 添加代理避免同步网络错误]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/wei-git-tian-jia-dai-li-bi-mian-tong-bu-wang-luo-cuo-wu/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/wei-git-tian-jia-dai-li-bi-mian-tong-bu-wang-luo-cuo-wu/">
+        </link>
+        <updated>2023-12-22T06:05:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在纯静态网页中使用Monaco Editor]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/zai-chun-jing-tai-wang-ye-zhong-shi-yong/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/zai-chun-jing-tai-wang-ye-zhong-shi-yong/">
+        </link>
+        <updated>2023-12-22T04:26:22.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[node.js 文件读写的简单代码]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/nodejs-du-qu-wen-jian-de-dai-ma-fen-xi/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/nodejs-du-qu-wen-jian-de-dai-ma-fen-xi/">
+        </link>
+        <updated>2023-12-14T14:38:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 爬虫入门]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/python-pa-chong-ru-men/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/python-pa-chong-ru-men/">
+        </link>
+        <updated>2023-10-30T09:07:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>记录一下目前会的爬虫知识</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>记录一下目前会的爬虫知识</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MongoDB 与 Python Mongodb]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/mongodb-1st/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/mongodb-1st/">
+        </link>
+        <updated>2023-10-13T11:00:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文章在windows环境，不探讨MongoDB Shell命令</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>本文章在windows环境，不探讨MongoDB Shell命令</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MapReduce 编程环境配置]]></title>
+        <id>https://blog.xn--fiqz59cpva341l.top/post/mapreduce-bian-cheng-huan-jing-pei-zhi/</id>
+        <link href="https://blog.xn--fiqz59cpva341l.top/post/mapreduce-bian-cheng-huan-jing-pei-zhi/">
+        </link>
+        <updated>2023-10-12T12:45:44.000Z</updated>
+    </entry>
+</feed>
